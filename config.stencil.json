@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "apiHost": "https://api.bigcommerce.com",
+  "normalStoreUrl": "https://awesome-test-store.mybigcommerce.com/?ctk=192b49f9-d63d-4922-a1de-0da230334e15",
+  "port": 3000
+}
